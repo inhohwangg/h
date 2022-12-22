@@ -76,17 +76,17 @@ class FacilityMain extends StatelessWidget {
                         '장치 5개',
                       ),
                       Text(
-                        '백송어린이집',
+                        'XXXXX집',
                         style: TextStyle(
                           fontWeight: FontWeight.w700,
                           fontSize: 16,
                         ),
                       ),
                       Text(
-                        '서울특별시 용산구 효창원로76길 25-6',
+                        '서울특별시 용산구 효창원로XX길 XX-X',
                       ),
                       Text(
-                        '시스템 관리자 gractor | 통합안전등급 A',
+                        '시스템 관리자 XXXXXXX | 통합안전등급 X',
                       ),
                     ],
                   ),

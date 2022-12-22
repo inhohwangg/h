@@ -327,7 +327,7 @@ class _FacilityInfoState extends State<FacilityInfo>
                         child: Column(
                           children: [
                             Text(
-                              '개정초등육교의 측점2 단말기 기울기가 초기 값에 비해 1도 차이가 발생 하였습니다.',
+                              'XXXXXX의 측점2 단말기 기울기가 초기 값에 비해 1도 차이가 발생 하였습니다.',
                               style: TextStyle(
                                 fontSize: 14.5,
                               ),
